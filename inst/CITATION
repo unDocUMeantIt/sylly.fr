@@ -1,0 +1,14 @@
+bibentry("Manual",
+    title="sylly.fr: Language Support for 'sylly' Package: French",
+    author="Meik Michalke",
+    year="2017",
+    note="(Version 0.1-1)",
+    url="http://reaktanz.de/?c=hacking&s=koRpus",
+
+    textVersion =
+    paste("Michalke, M. (2017). ",
+        "sylly.fr: Language Support for 'sylly' Package: French (Version 0.1-1). ",
+        "Available from http://reaktanz.de/?c=hacking&s=koRpus",
+        sep=""),
+
+    mheader = "To cite sylly.fr in publications use:")
