@@ -28,6 +28,13 @@ Hyphenation patterns for French to be used by \code{\link[sylly:hyphen]{hyphen}}
 These data objects are not really intended to be used directly, but rather to be consulted
 by the \code{hyphen()} function without further user interaction.
 }
+\examples{
+\dontrun{
+library(sylly.fr)
+sampleText <- c("c'est","un","exemple","assez","stupide")
+hyphen(sampleText, hyph.pattern="fr")
+}
+}
 \references{
 Liang, F.M. (1983). \emph{Word Hy-phen-a-tion by Com-put-er}.
   Dissertation, Stanford University, Dept. of Computer Science.
