@@ -1,7 +1,5 @@
 # sylly.fr
 
-[![Flattr this git repo](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=m.eik&url=https://github.com/unDocUMeantIt/sylly.fr&title=sylly.fr&language=en_GB&tags=github&category=software)
-
 Adds support for the French language to the [sylly](https://github.com/unDocUMeantIt/sylly) package.
 Due to some restrictions on CRAN, the full package sources are only available from the
 [project homepage](http://reaktanz.de/?c=hacking&s=koRpus).
